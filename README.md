@@ -1,0 +1,3 @@
+# Mylog
+# log4cpp
+# 
